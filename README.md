@@ -1,2 +1,1 @@
-# first_web_project
-My clone repository
+# My first web development project
